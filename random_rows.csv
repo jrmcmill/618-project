@@ -1,0 +1,21 @@
+YearStart,YearEnd,LocationDesc,DataSource,Topic,Question,DataValueUnit_x,DataValueType,DataValue,DataValueAlt,DataValueFootnoteSymbol_x,DatavalueFootnote_x,LowConfidenceLimit,HighConfidenceLimit,QuestionID,DataValueTypeID,Gender,RaceEthnicity,Overall_x,DataValueUnit_y,DataValueFootnoteSymbol_y,DatavalueFootnote_y,Overall_y
+2017,2017,Maryland,BRFSS,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,Number,Mean,3.7,3.7,,,3.5,4.0,MTH1_0,MEAN,nan,"White, non-Hispanic",nan,,,,
+2020,2020,Virginia,BRFSS,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,Number,Mean,3.0,3.0,,,2.2,3.8,MTH1_0,MEAN,nan,"Other, non-Hispanic",nan,,,,
+2015,2015,Arizona,BRFSS,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,Number,Mean,4.2,4.2,,,2.5,5.8,MTH1_0,MEAN,nan,"Black, non-Hispanic",nan,,,,
+2015,2015,North Carolina,BRFSS,Reproductive Health,Timeliness of routine health care checkup among women aged 18-44 years,,Crude Prevalence,58.3,58.3,,,42.2,72.8,RPH1_0,CRDPREV,,"Other, non-Hispanic",,%,,,nan
+2016,2016,Michigan,BRFSS,Mental Health,At least 14 recent mentally unhealthy days among women aged 18-44 years,%,Crude Prevalence,16.7,16.7,,,15.0,18.7,MTH2_0,CRDPREV,nan,"White, non-Hispanic",nan,,,,
+2013,2013,Louisiana,BRFSS,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,Number,Age-adjusted Mean,4.9,4.9,,,4.4,5.5,MTH1_0,AGEADJMEAN,Female,nan,nan,,,,
+2016,2016,District of Columbia,BRFSS,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,Number,Mean,3.4,3.4,,,3.1,3.7,MTH1_0,MEAN,nan,nan,Overall,,,,
+2013,2013,Texas,BRFSS,Reproductive Health,Timeliness of routine health care checkup among women aged 18-44 years,,Crude Prevalence,72.9,72.9,,,56.0,85.0,RPH1_0,CRDPREV,,"Multiracial, non-Hispanic",,%,,,nan
+2016,2016,Georgia,BRFSS,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,Number,Age-adjusted Mean,3.3,3.3,,,2.3,4.4,MTH1_0,AGEADJMEAN,nan,Hispanic,nan,,,,
+2014,2014,Louisiana,BRFSS,Mental Health,At least 14 recent mentally unhealthy days among women aged 18-44 years,%,Crude Prevalence,16.4,16.4,,,14.0,19.1,MTH2_0,CRDPREV,nan,nan,Overall,,,,
+2016,2016,Nebraska,PRAMS,Reproductive Health,Folic acid supplementation,,Crude Prevalence,28.6,28.6,,,23.6,34.2,RPH3_0,CRDPREV,,Hispanic,,%,,,nan
+2020,2020,Tennessee,BRFSS,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,Number,Mean,4.8,4.8,,,3.6,6.0,MTH1_0,MEAN,nan,"Black, non-Hispanic",nan,,,,
+2017,2017,Colorado,BRFSS,Mental Health,At least 14 recent mentally unhealthy days among women aged 18-44 years,%,Crude Prevalence,15.0,15.0,,,13.2,17.0,MTH2_0,CRDPREV,nan,"White, non-Hispanic",nan,,,,
+2013,2013,Virginia,BRFSS,Reproductive Health,Timeliness of routine health care checkup among women aged 18-44 years,,Crude Prevalence,60.7,60.7,,,53.0,67.9,RPH1_0,CRDPREV,,Hispanic,,%,,,nan
+2016,2016,Florida,BRFSS,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,Number,Age-adjusted Mean,3.7,3.7,,,3.5,3.9,MTH1_0,AGEADJMEAN,nan,nan,Overall,,,,
+2017,2017,Hawaii,BRFSS,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,Number,Mean,3.5,3.5,,,3.0,4.1,MTH1_0,MEAN,nan,"White, non-Hispanic",nan,,,,
+2013,2013,South Carolina,BRFSS,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,Number,Age-adjusted Mean,3.1,3.1,,,2.7,3.4,MTH1_0,AGEADJMEAN,Male,nan,nan,,,,
+2020,2020,Michigan,PRAMS,Reproductive Health,Folic acid supplementation,,Crude Prevalence,29.1,29.1,,,18.2,43.1,RPH3_0,CRDPREV,,Hispanic,,%,,,nan
+2014,2014,Delaware,BRFSS,Reproductive Health,Timeliness of routine health care checkup among women aged 18-44 years,,Crude Prevalence,63.7,63.7,,,51.3,74.6,RPH1_0,CRDPREV,,Hispanic,,%,,,nan
+2014,2014,Connecticut,BRFSS,Mental Health,At least 14 recent mentally unhealthy days among women aged 18-44 years,%,Crude Prevalence,11.3,11.3,,,6.4,19.2,MTH2_0,CRDPREV,nan,Hispanic,nan,,,,
